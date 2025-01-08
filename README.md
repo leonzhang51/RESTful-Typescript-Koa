@@ -2,14 +2,6 @@
 
 
 
-![restful-typescript-koa-banner](https://user-images.githubusercontent.com/19330930/99025165-296f7780-25a3-11eb-8c38-e17cca2725df.jpg)
-
-[![Actions Status](https://github.com/emmanuelnk/restful-typescript-koa/workflows/build/badge.svg)](https://github.com/emmanuelnk/restful-typescript-koa/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![Twitter](https://img.shields.io/twitter/follow/emmanuel_n_k?style=social)](https://twitter.com/emmanuel_n_k)
-
-
 
 ## Introduction
 
