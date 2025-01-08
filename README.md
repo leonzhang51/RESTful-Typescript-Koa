@@ -1,6 +1,6 @@
 # RESTful-Typescript-Koa
 
-👷🏿 by [Emmanuel N K](https://www.github.com/emmanuelnk) 
+
 
 ![restful-typescript-koa-banner](https://user-images.githubusercontent.com/19330930/99025165-296f7780-25a3-11eb-8c38-e17cca2725df.jpg)
 
